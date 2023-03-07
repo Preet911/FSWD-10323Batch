@@ -1,1 +1,2 @@
 This is some dummy contents
+This is the second line
